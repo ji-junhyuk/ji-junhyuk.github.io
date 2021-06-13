@@ -9,8 +9,7 @@ regenerate: true
 
 ## wiki items
 
-* [[mathjax-latex]]
-* [[글감]]
+* [[포스팅]]
 * 
 
 ---
