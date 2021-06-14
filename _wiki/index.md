@@ -10,7 +10,6 @@ regenerate: true
 ## wiki items
 
 * [[포스팅]]
-* 
 
 ---
 
