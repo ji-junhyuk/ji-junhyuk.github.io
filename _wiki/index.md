@@ -10,7 +10,7 @@ regenerate: true
 ## wiki items
 
 * [[코딩테스트]]
-* 
+* [[기초코드작성요령]]
 
 ---
 
