@@ -9,7 +9,8 @@ regenerate: true
 
 ## wiki items
 
-* [[포스팅]]
+* [[코딩테스트]]
+* 
 
 ---
 
