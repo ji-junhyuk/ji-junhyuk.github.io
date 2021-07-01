@@ -13,4 +13,4 @@ latex   : false
 * TOC
 {:toc}
 
-# [[Hello]]
+# [[단축키]]
